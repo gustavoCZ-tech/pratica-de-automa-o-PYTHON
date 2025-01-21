@@ -98,9 +98,10 @@ for linha in tabela.index: # executa a repetição  para a linha que tiver em TA
 
       # numero positivo = scroll para cima
       # numero negativo da o scroll para baixo
-      pyautogui.scroll(10000)
+      pyautogui.scroll(10000) # ->define se pagina vai subir ou descer
 
 # passo 5: repetir o passo 4 até acabar todos os produto
+
 
 
 
